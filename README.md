@@ -3,7 +3,7 @@ Rock-Paper-Scissors is a simple two-player game where, at a signal, players make
 
  
 
-##A brief summary:
+## A brief summary:
 
 If the two players choose the same “character” it’s a tie, and the game repeats
 Rock beats Scissors
@@ -13,7 +13,7 @@ You have been tasked to create a simple version of this game with Python. In you
 
 You should make use of the inbuilt Python module random and its choice method.
 
-##Instructions:
+## Instructions:
 
 Create a new Python file and call it main.py. Inside it you'll create your game.
 Create a list to store all possible options:
@@ -28,7 +28,7 @@ Check both player's moves:
 If there is a winner, print the winner, and the program ends. 
 If it's a tie (the computer and player pick the same move), restart the game from step 3
 
-##Ressources
+## Ressources
 https://www.youtube.com/watch?v=ND4fd6yScBM
 https://en.wikipedia.org/wiki/Rock_paper_scissors
 https://www.w3schools.com/python/module_random.asp

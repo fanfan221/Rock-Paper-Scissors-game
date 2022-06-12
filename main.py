@@ -54,7 +54,7 @@ while True:
         break
 
     if CPU_choice == wins_to[player_choice]: # player wins
-        print("You win!")
+        print("Player wins!")
         break
 
     # there is a tie!

@@ -32,7 +32,6 @@ If it's a tie (the computer and player pick the same move), restart the game fro
 [How to Play Rock, Paper, Scissors](https://www.youtube.com/watch?v=ND4fd6yScBM)  
 [Rock paper scissors - Wikipedia](https://en.wikipedia.org/wiki/Rock_paper_scissors)  
 [Introduction to Python Modules]  
-[Python random choice() function to select a random item from a List and Set](https://pynative.com/python-random-choice/)  
-(https://pynative.com/python-random-choice/)  
+[Python random choice() function to select a random item from a List and Set](https://pynative.com/python-random-choice/)   
 [For Loops](https://www.youtube.com/watch?v=P9sIg93Boso&list=PLxuUHF3OiqfWAITD4gPUHZ1GcYRqmyF7P&index=18)  
 [While Loops](https://www.youtube.com/watch?v=J8dkgM8Mck0&list=PLxuUHF3OiqfWAITD4gPUHZ1GcYRqmyF7P&index=19)  
